@@ -6,6 +6,9 @@ El objetivo de compartir estos recursos basados en mis experiencias personales e
 y aprendizaje de las personas que acceden a mis contenidos y ofrecer siempre mis servicios de orientación
 personal y desarrollos de sistemas a medida.
 
+Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el 
+menú que se despliega seleccionar "Download ZIP".
+
 Éxito con eso!!!
 
 Damián G. Lasso - Mis sitios web son https://ledfacil.com.ar/ y https://lasso-tech.com/
