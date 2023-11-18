@@ -1,4 +1,6 @@
-En este repositorio dejo los recursos de proyecto y programas utilizados en el video: xxx
+En este repositorio dejo los recursos de proyecto y programas utilizados en el video:
+
+https://youtu.be/-WgJnQt2EQ4
 
 Trabajo con una placa de desarrollo ESP32 Devkit v1 y programo en C++ con el entorno Arduino IDE.
 
