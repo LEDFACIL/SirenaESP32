@@ -1,4 +1,4 @@
-En este repositorio dejo los recursos de proyecto y programas utilizados en el video:
+En este repositorio dejo los recursos de proyecto utilizados en el video:
 
 https://youtu.be/-WgJnQt2EQ4
 
