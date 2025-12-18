@@ -8,9 +8,14 @@ El objetivo de compartir estos recursos basados en mis experiencias personales e
 y aprendizaje de las personas que acceden a mis contenidos y ofrecer siempre mis servicios de orientación
 personal y desarrollos de sistemas a medida.
 
-Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el 
-menú que se despliega seleccionar "Download ZIP".
+📌Si compartís, por favor respetá la autoría de este contenido, sería un buen gesto dejar un enlace al repo. 😉
 
-Éxito con eso!!!
+📌Podés encontrarme [acá](https://lasso-tech.com/contacto/).
 
-Damián G. Lasso - Mis sitios web son https://ledfacil.com.ar/ y https://lasso-tech.com/
+📌Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
+
+💪 Éxito con eso!!!
+
+---
+
+### 🤓 By **Damián G. Lasso** 🌐 [LASSO-TECH](https://lasso-tech.com/) Electrónica aplicada & soluciones.
